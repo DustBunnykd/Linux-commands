@@ -9,4 +9,3 @@ read -p "What is your job role? " role
 if [[ -z ${role} ]]
 then
     echo "Please enter your role!"
-fi

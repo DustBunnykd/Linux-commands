@@ -9,4 +9,4 @@ then
     echo "Please enter your position!"
 else
     echo "Hi dear ${position}"
-fi
+fix()
